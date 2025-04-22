@@ -13,7 +13,7 @@ Você pode visualizar a página abrindo o arquivo `index.html` em qualquer naveg
 3. Abra o arquivo index.html em seu navegador.
 
 ## ✏️ Personalização através de Script
-#bash
+
 #! /bin/bash
 
 if [ ! -x /etc/init.d/apache2 ]; then
