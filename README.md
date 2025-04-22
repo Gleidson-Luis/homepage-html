@@ -2,7 +2,7 @@
 
 Este projeto é um exemplo básico de um site estático desenvolvido apenas com HTML e CSS. Ideal para iniciantes que estão aprendendo os fundamentos da criação de páginas web.
 
-**## 🌐 Demonstração
+## 🌐 Demonstração
 
 Você pode visualizar a página abrindo o arquivo `index.html` em qualquer navegador.
 
