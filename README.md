@@ -12,13 +12,13 @@ Você pode visualizar a página abrindo o arquivo `index.html` em qualquer naveg
 2. Navegue até o diretório do projeto: cd site-simples
 3. Abra o arquivo index.html em seu navegador.
 
-✏️ Personalização
+## ✏️ Personalização
 Edite o conteúdo de index.html para modificar os textos e a estrutura da página.
 
 Alterar estilos no arquivo style.css para mudar cores, fontes e layout.
 
-📌 Requisitos
+## 📌 Requisitos
 Nenhum requisito especial. Apenas um navegador web moderno (Chrome, Firefox, Edge, etc).
 
-🤝 Contribuindo
+## 🤝 Contribuindo
 Sinta-se à vontade para fazer um fork do projeto, criar novas features ou corrigir bugs. Pull requests são bem-vindos!
