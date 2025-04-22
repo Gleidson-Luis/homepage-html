@@ -47,7 +47,7 @@ sudo echo "127.0.0.1	ifrn" | sudo tee -a /etc/hosts
 
 sudo /etc/init.d/apache2 restart
 sudo /etc/init.d/apache2 status
-
+```
 ## 📌 Requisitos
 Nenhum requisito especial. Apenas com o Apache2 instalado e um navegador web moderno (Chrome, Firefox, Edge, etc).
 
