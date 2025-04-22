@@ -1,8 +1,24 @@
 # homepage-html
 
-Olá pra você que escolheu esse repositório! Nessa repositório você vai enconntrar um site bem simples feito com as tecnolgias html, css esse site(website) usando html e css foi feito apenas para praticar os estudos sobre programação front-end. Espero que gostes e também aproveita e vai dar uma passeada✌ lá no canal.
+Este projeto é um exemplo básico de um site estático desenvolvido apenas com HTML e CSS. Ideal para iniciantes que estão aprendendo os fundamentos da criação de páginas web.
 
-## [🛠Assistir](https://www.youtube.com/watch?v=3R7QtNcwE3c)
-## [⚠Me Ajude](https://www.youtube.com/channel/UCxKIsX5OXyyNWVmomuDc-LA?sub_confirmation=1)
-# Preview
-![Como-Criar-um-SITE-Com-HTML-e-CSS-na-prática](/Como-Criar-um-SITE-Com-HTML-e-CSS-na-prática.png)
+**## 🌐 Demonstração
+
+Você pode visualizar a página abrindo o arquivo `index.html` em qualquer navegador.
+
+## 🚀 Como Usar
+
+1. Clone este repositório: git clone https://github.com/Gleidson-Luis/homepage-html.git
+2. Navegue até o diretório do projeto: cd site-simples
+3. Abra o arquivo index.html em seu navegador.
+
+✏️ Personalização
+Edite o conteúdo de index.html para modificar os textos e a estrutura da página.
+
+Alterar estilos no arquivo style.css para mudar cores, fontes e layout.
+
+📌 Requisitos
+Nenhum requisito especial. Apenas um navegador web moderno (Chrome, Firefox, Edge, etc).
+
+🤝 Contribuindo
+Sinta-se à vontade para fazer um fork do projeto, criar novas features ou corrigir bugs. Pull requests são bem-vindos!
