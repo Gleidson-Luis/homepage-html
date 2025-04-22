@@ -9,11 +9,11 @@ Você pode visualizar a página abrindo o arquivo `index.html` em qualquer naveg
 ## 🚀 Como Usar
 
 1. Clone este repositório: git clone https://github.com/Gleidson-Luis/homepage-html.git
-2. Navegue até o diretório do projeto: cd site-simples
+2. Navegue até o diretório do projeto: cd homepage-html
 3. Abra o arquivo index.html em seu navegador.
 
-## ✏️ Personalização através de Script
-
+## ✏️ Personalização através de Script para automação do Apache2
+```bash
 #! /bin/bash
 
 if [ ! -x /etc/init.d/apache2 ]; then
@@ -49,7 +49,7 @@ sudo /etc/init.d/apache2 restart
 sudo /etc/init.d/apache2 status
 
 ## 📌 Requisitos
-Nenhum requisito especial. Apenas um navegador web moderno (Chrome, Firefox, Edge, etc).
+Nenhum requisito especial. Apenas com o Apache2 instalado e um navegador web moderno (Chrome, Firefox, Edge, etc).
 
 ## 🤝 Contribuindo
 Sinta-se à vontade para fazer um fork do projeto, criar novas features ou corrigir bugs. Pull requests são bem-vindos!
